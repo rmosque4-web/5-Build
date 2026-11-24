@@ -42,7 +42,7 @@ ChatGPT was used to help draft some of the written content for this website. I r
 
 Live Website
 
-[Insert your GitHub Pages URL here]
+[https://rmosque4-web.github.io/5-Build/]
 
 Author
 
